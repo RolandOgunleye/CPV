@@ -1,0 +1,7 @@
+# Ignore directories or files named 'valid', 'train', and 'test'
+valid/
+train/
+test/
+metadata.csv
+class_dict.csv
+new_seg_model.h5
